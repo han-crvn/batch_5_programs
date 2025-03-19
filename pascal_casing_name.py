@@ -1,5 +1,6 @@
 # Allow users to input
+full_name = input("Enter your full name: ")
 
-# Makee it pascal casing
+# Make it pascal casing
 
 # Print result
