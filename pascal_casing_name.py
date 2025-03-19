@@ -2,7 +2,7 @@
 full_name = input("Enter your full name: ")
 
 # Make it pascal casing
-pascal_case = full_name.title().replace(" ", "")
+pascal_case = full_name.title().replace(" ", "_")
 
 # Print result
 print(pascal_case)
